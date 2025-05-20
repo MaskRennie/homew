@@ -43,4 +43,30 @@
  .baby{
   margin: 10px;
  }
-  
+
+ 
+.maskserif {
+  font-family: "Noto Serif TC", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.maskcallmebg{
+  background-image: url("../assets/img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.blackbg{
+  background-color: beige;
+}
+
+.maskcenter{
+  text-align: center;
+}
+
+.maskhl{
+  color: red;
+  font-weight: 900;
+}
