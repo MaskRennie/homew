@@ -83,10 +83,12 @@ div.maskabout{
     font-size: 1.5rem;
 }
 
-.nigger{
-    
+.fixed.nigger{
     left: unset;
     right: 0%;
     top: 0%;
     bottom: unset;
+}
+.fixed {
+    display: fixed;
 }
