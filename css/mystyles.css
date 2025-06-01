@@ -99,3 +99,35 @@ div.maskabout{
 .fixed {
     display: fixed;
 }
+
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.video-card {
+  width: 320px;
+  background-color: #f9f9f9;
+  border-radius: 12px;
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.video-card iframe {
+  width: 100%;
+  height: 180px;
+  border-radius: 8px;
+}
+
+.video-card h4 {
+  margin: 10px 0 5px;
+  font-size: 1.1rem;
+}
+
+.video-card p {
+  font-size: 0.9rem;
+  color: #666;
+}
