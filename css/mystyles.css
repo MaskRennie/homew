@@ -72,8 +72,7 @@ div.maskabout{
   }
 
 .maskgotop{
-    display: inline-flex
-;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
     height: 3.5rem;
