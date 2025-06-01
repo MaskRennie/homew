@@ -81,6 +81,10 @@ div.maskabout{
     color: #fff;
     border-radius: 100% 0% 10% 100%;
     font-size: 1.5rem;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
 }
 
 .fixed.gotop-button{
