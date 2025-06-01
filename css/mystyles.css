@@ -19,12 +19,10 @@
   }
 
   div.maskdiv{
-    background-color: rgb(110, 135, 135);
+    background-color: rgb(221 198 185);
     border-radius: 20px;
-    padding: 30px;
-    border: 1px solid cornflowerblue;
-    width: 85%;
-    margin: 10px auto;
+    border: 1px solid #350900;
+    width: 50%;
   }
 
   h4.maskh4{
