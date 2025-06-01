@@ -51,13 +51,6 @@
   font-weight: 400;
   font-style: normal;
 }
-
-.maskcallmebg{
-  background-image: url("../assets/img/bg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-}
-
 .blackbg{
   background-color: beige;
 }
