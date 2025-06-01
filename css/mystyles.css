@@ -82,8 +82,9 @@ div.maskabout{
     border-radius: 100% 0% 10% 100%;
     font-size: 1.5rem;
     position: fixed;
-    bottom: 20px;
+    top: 50%;
     right: 20px;
+    transform: translateY(-50%);
     z-index: 999;
 }
 
