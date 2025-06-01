@@ -84,7 +84,7 @@ div.maskabout{
     position: fixed;
     top: 50%;
     right: 20px;
-    transform: translateY(-50%);
+    transform: translateY(750%);
     z-index: 999;
 }
 
