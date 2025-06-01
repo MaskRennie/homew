@@ -1,4 +1,5 @@
-  p{
+
+p{
     color: black;
   }
 
@@ -60,4 +61,8 @@
 .maskhl{
   color: red;
   font-weight: 900;
+}
+
+.maskwidth{
+  width: 25% !important;
 }
