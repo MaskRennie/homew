@@ -79,6 +79,6 @@ div.maskabout{
     width: 3.5rem;
     background-color: #715f40;
     color: #fff;
-    border-radius: 100%;
+    border-radius: 100% 0% 10% 100%;
     font-size: 1.5rem;
 }
