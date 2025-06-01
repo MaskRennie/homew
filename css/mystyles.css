@@ -70,3 +70,16 @@ div.maskabout{
     width: 70%;
     margin: 0px auto;
   }
+
+.maskgotop{
+    display: inline-flex
+;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #715f40;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.5rem;
+}
