@@ -174,3 +174,9 @@ div.maskabout{
   transform: scale(1.05) rotate(2deg);
   transition: all 0.3s ease;
 }
+
+.about-maxellimage img {
+  max-width: 200%;
+  height: auto;
+  border-radius: 12px;
+}
