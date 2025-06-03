@@ -194,3 +194,7 @@ div.maskabout{
   transform: scale(1.05) rotate(2deg);
   transition: all 0.3s ease;
 }
+
+.span{
+    color: red;
+}
